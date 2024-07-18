@@ -73,6 +73,8 @@
 ||https://hi.90phut18.xyz/images/dt/pop-400x400.gif^
 .gif$domain=hi.90phut18.xyz
 .gif$domain=90phut18.xyz
+.gif$domain=hi.90phut18.xyz,image
+.gif$domain=90phut18.xyz,image
 hi.90phut18.xyz##.g-imgtop pc container
 ||da88.pro^
 ||da88ltd.com^
