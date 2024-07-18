@@ -67,6 +67,9 @@
 ||hi.90phut18.xyz^*.gif$image,domain=90phut18.xyz
 ||hi.90phut18.xyz/images/dt/*.gif$image
 ||hi.90phut18.xyz/js/custom.js$script
+||https://hi.90phut18.xyz/images/dt/700x70.gif^
+||https://hi.90phut18.xyz/images/dt/fabet-1330x90.gif^
+||https://hi.90phut18.xyz/images/dt/lucky88-1330x90.gif^
 ||da88.pro^
 ||da88ltd.com^
 ||lucky88.in^
