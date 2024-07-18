@@ -63,23 +63,6 @@
 ||1xbet.com^
 ||xbet.ag^
 ||8xbet293.cc^
-||hi.90phut18.xyz^*.gif
-||hi.90phut18.xyz^*.gif$image,domain=90phut18.xyz
-||hi.90phut18.xyz/images/dt/*.gif$image
-||https://hi.90phut18.xyz/images/dt/700x70.gif^
-||https://hi.90phut18.xyz/images/dt/fabet-1330x90.gif^
-||https://hi.90phut18.xyz/images/dt/lucky88-1330x90.gif^
-||https://hi.90phut18.xyz/images/dt/pop-400x400.gif^
-hi.90phut18.xyz/js/custom.js$script
-hi.90phut18.xyz/images/dt/*.gif$image
-.gif$domain=hi.90phut18.xyz
-.gif$domain=90phut18.xyz
-.gif$domain=hi.90phut18.xyz,image
-.gif$domain=90phut18.xyz,image
-.gif$domain=4shares.live,image
-.gif$domain=90phut34.live,image
-hi.90phut18.xyz##.g-imgtop pc container
-||4shares.live^
 ||da88.pro^
 ||da88ltd.com^
 ||lucky88.in^
