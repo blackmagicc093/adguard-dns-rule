@@ -66,6 +66,7 @@
 ||hi.90phut18.xyz^*.gif
 ||hi.90phut18.xyz^*.gif$image,domain=90phut18.xyz
 ||hi.90phut18.xyz/images/dt/*.gif$image
+/images/dt/*gif$image
 ||da88.pro^
 ||da88ltd.com^
 ||lucky88.in^
