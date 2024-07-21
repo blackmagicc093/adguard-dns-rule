@@ -121,7 +121,3 @@ pattern = "/" https?:\/\/.+.googlevideo.com\/ptracking\?pltype=adhost "/"
 pattern = "/" (rr[:digit:]---[:alnum:]{2}-[:alnum:]{8}-[:alnum:]{4})\.googlevideo\.com "/"
 pattern = "/" rr\d---sn-8xgn5uxa-quh\w.googlevideo.com "/"
 pattern = "/" (rr[:digit:]{1}---[:space:]{2}-[:space:]{8}-[A-Za-z0-9_]{4})\.googlevideo\.com "/"
-||s.youtube.com^
-||www.googleapis.com^
-||youtubei.googleapis.com^
-||%APPEND%*.googlevideo.com^
