@@ -108,3 +108,13 @@
 ||playwin79.uk^
 ||da88.io^
 ||8x7825.com^
+pattern = "/" https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad "/"
+pattern = "/" https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat "/"
+pattern = "/" https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log) "/"
+pattern = "/" https?:\/\/youtubei.googleapis.com\/.+ad_break "/"
+pattern = "/" https?:\/\/.+.youtube.com\/_get_ads "/"
+pattern = "/" https?:\/\/.+.youtube.com\/ptracking\? "/"
+pattern = "/" https?:\/\/.+.youtube.com\/pagead\/ "/"
+pattern = "/" https?:\/\/.+.youtube.com\/get_midroll_ "/"
+pattern = "/" https?:\/\/.+.youtube.com\/api\/stats\/ads "/"
+pattern = "/" https?:\/\/.+.googlevideo.com\/ptracking\?pltype=adhost "/"
