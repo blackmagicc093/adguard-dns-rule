@@ -108,6 +108,7 @@
 ||playwin79.uk^
 ||da88.io^
 ||8x7825.com^
+||five88.com^
 pattern = "/" https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad "/"
 pattern = "/" https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat "/"
 pattern = "/" https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log) "/"
