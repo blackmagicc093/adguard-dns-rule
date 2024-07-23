@@ -125,4 +125,3 @@
 /^.*clients\d\.youtube\.com$/
 /^.*googlesyndication.*$/
 /^r\.sn.*googlevideo\.com$/
-/^rr[[:digit:]]{1,}---[[:alnum:]]{1,}-[[:alnum:]]{1,}.[[:alnum:]]{1,}[[:alnum:]]{1,}.googlevideo.com$/
