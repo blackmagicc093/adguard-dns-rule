@@ -109,6 +109,7 @@
 ||da88.io^
 ||8x7825.com^
 ||five88.com^
+||sexmy69.pro^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
