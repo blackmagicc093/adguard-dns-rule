@@ -123,6 +123,8 @@
 ||javtrailers.com^
 ||javxsub.com^
 ||javhdz.cc^
+||lxmanga.life^
+||lxmanga.net^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
