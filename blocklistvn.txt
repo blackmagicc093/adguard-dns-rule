@@ -125,6 +125,10 @@
 ||javhdz.cc^
 ||lxmanga.life^
 ||lxmanga.net^
+||xsub.day^
+||xsharings.com^
+||perdos.cam^
+||erikalust.com^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
