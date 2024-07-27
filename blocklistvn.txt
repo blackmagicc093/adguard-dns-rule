@@ -130,6 +130,8 @@
 ||perdos.cam^
 ||erikalust.com^
 ||3xchina.net^
+||jav-master.com^
+||missav123.com^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
