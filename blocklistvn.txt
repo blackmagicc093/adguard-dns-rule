@@ -137,6 +137,11 @@
 ||anh.moe^
 ||jav69.biz^
 ||javtiful.com^
+||sexmoiz.info^
+||cosxplay.com^
+||javhd.fit^
+||sexnhanh.top^
+||javhd.lgbt^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
