@@ -142,6 +142,7 @@
 ||javhd.fit^
 ||sexnhanh.top^
 ||javhd.lgbt^
+||rik.vip^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
