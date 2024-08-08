@@ -144,6 +144,7 @@
 ||javhd.lgbt^
 ||rik.vip^
 ||five88.win^
+||nangcuc.org^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
