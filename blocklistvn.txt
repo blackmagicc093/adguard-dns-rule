@@ -146,6 +146,7 @@
 ||five88.win^
 ||nangcuc.org^
 ||vuiuk88.info^
+||8live.mobi^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
