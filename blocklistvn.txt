@@ -148,6 +148,7 @@
 ||vuiuk88.info^
 ||8live.mobi^
 ||b29.pub^
+||fa88.tv^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
