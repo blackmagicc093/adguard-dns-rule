@@ -38,6 +38,9 @@
 ||8live.mobi^
 ||b29.pub^
 ||fa88.tv^
+||api6.ipify.org^
+||speedtest.net^
+||fast.com^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
