@@ -41,6 +41,15 @@
 ||api6.ipify.org^
 ||speedtest.net^
 ||fast.com^
+||speedtest.vn^
+||speedtest.vnpt.vn^
+||speedtest.vtn.com.vn^
+||speedcheck.org^
+||directvgo.speedtestcustom.com^
+||speedtest.cesnet.cz^
+||testmy.net^
+||nperf.com^
+||speedtest.xfinity.com^
 /https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
 /https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
 /https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
