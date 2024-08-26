@@ -46,7 +46,6 @@
 ||sun.win^
 ||x8.games^
 ||fa88.tv^
-||api6.ipify.org^
 ||speedtest.net^
 ||fast.com^
 ||speedtest.vn^
