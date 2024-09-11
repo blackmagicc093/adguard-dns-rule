@@ -158,18 +158,3 @@
 ||testmy.net^
 ||nperf.com^
 ||speedtest.xfinity.com^
-/https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad/
-/https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat/
-/https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log)/
-/https?:\/\/youtubei.googleapis.com\/.+ad_break/
-/https?:\/\/.+.youtube.com\/_get_ads/
-/https?:\/\/.+.youtube.com\/ptracking\? "/"
-/https?:\/\/.+.youtube.com\/pagead\//
-/https?:\/\/.+.youtube.com\/get_midroll_/
-/https?:\/\/.+.youtube.com\/api\/stats\/ads/
-/https?:\/\/.+.googlevideo.com\/ptracking\?pltype=adhost/
-/(^r[[:digit:]]+(\.|\-+)[[:alnum:]]+\-+[[:alnum:]]+\.)(googlevideo|gvt1)\.com$/
-/^.*adssl\.l\.google.com$/
-/^.*clients\d\.youtube\.com$/
-/^.*googlesyndication.*$/
-/^r\.sn.*googlevideo\.com$/
