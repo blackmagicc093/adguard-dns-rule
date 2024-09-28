@@ -25,7 +25,6 @@
 @@||adsense.google.com^$important
 @@||magiskzip.com^$important
 @@||magiskmodule.com^$important
-@@||hotjar.com^$important
 @@||metrika.yandex.ru^$important
 @@||affiliate.tiktok.com^$important
 @@||vi.wordpress.org^$important
