@@ -150,9 +150,6 @@
 ||sun.win^
 ||x8.games^
 ||fa88.tv^
-||speedtest.net^
-||fast.com^
-||speedtest.vn^
 ||speedtest.vnpt.vn^
 ||speedtest.vtn.com.vn^
 ||speedcheck.org^
