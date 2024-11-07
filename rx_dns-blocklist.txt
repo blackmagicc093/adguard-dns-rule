@@ -158,3 +158,5 @@
 ||testmy.net^
 ||nperf.com^
 ||speedtest.xfinity.com^
+||vin88.com^
+||mplmncb.com^
