@@ -26,6 +26,3 @@
 @@||vi.wordpress.org^$important
 @@||cloudctrl.gcloudsdk.com^$important
 @@||s.youtube.com^$important
-@@||www.pornhub.com^$important
-@@||phncdn.com^$important
-@@||ei.phncdn.com^$important
