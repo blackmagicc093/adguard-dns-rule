@@ -25,6 +25,6 @@
 @@||affiliate.tiktok.com^$important
 @@||vi.wordpress.org^$important
 @@||cloudctrl.gcloudsdk.com^$important
-@@||s.youtube.com^
-@@||www.pornhub.com^
-@@||pornhub.com^
+@@||s.youtube.com^$important
+@@||www.pornhub.com^$important
+@@||phncdn.com^$important
