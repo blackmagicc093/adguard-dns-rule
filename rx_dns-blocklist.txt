@@ -162,7 +162,6 @@
 ||directvgo.speedtestcustom.com^
 ||speedtest.cesnet.cz^
 ||testmy.net^
-||nperf.com^
 ||speedtest.xfinity.com^
 ||vin88.com^
 ||mplmncb.com^
