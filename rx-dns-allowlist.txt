@@ -26,3 +26,4 @@
 @@||vi.wordpress.org^$important
 @@||cloudctrl.gcloudsdk.com^$important
 @@||s.youtube.com^$important
+@@||clickbank.net^$important
