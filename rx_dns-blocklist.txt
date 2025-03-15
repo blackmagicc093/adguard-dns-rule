@@ -188,5 +188,11 @@
 127.0.0.1 mirror2.internetdownloadmanager.com
 127.0.0.1 mirror3.internetdownloadmanager.com
 ||registeridm.com^
+||www.registeridm.com^
 ||tonec.com^
 ||internetdownloadmanager.com^
+||www.internetdownloadmanager.com^
+||secure.internetdownloadmanager.com^
+||mirror.internetdownloadmanager.com^
+||mirror2.internetdownloadmanager.com^
+||mirror3.internetdownloadmanager.com^
