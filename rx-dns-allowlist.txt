@@ -28,3 +28,4 @@
 @@||s.youtube.com^$important
 @@||clickbank.net^$important
 @@||xxxclub.to^$important
+@@||analytics.pinterest.com^$important
