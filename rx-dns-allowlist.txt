@@ -1,6 +1,4 @@
 @@||nordvpn.com^$important
-@@||web.facebook.com^$important
-@@||graph.facebook.com^$important
 @@||store.steampowered.com^$important
 @@||steampowered.com^$important
 @@||app.proxy-cheap.com^$important
@@ -17,7 +15,6 @@
 @@||embed.videodelivery.net^$important
 @@||alicdn.com^$important
 @@||www.deviantart.com^$important
-@@||blackmagicc4g.toidungchan.com^$important
 @@||wukong.techomespace.com^$important
 @@||rx.techomespace.com^$important
 @@||magiskzip.com^$important
