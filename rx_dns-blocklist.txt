@@ -196,3 +196,4 @@
 ||mirror.internetdownloadmanager.com^
 ||mirror2.internetdownloadmanager.com^
 ||mirror3.internetdownloadmanager.com^
+||web.facebook.com^
