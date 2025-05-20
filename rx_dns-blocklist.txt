@@ -171,13 +171,6 @@
 ||sum30.club^
 ||choigametip.org^
 ||gametop88.me^
-/(porn)+/
-/(jav)+/
-/(xxx)+/
-/(sex)+/
-/(gay)+/
-/(adult)+/
-/(hentai)+/
 127.0.0.1 registeridm.com
 127.0.0.1 *.registeridm.com
 127.0.0.1 www.internetdownloadmanager.com
