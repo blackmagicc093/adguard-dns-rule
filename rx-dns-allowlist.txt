@@ -27,3 +27,5 @@
 @@||xxxclub.to^$important
 @@||analytics.pinterest.com^$important
 @@||ads.pinterest.com^$important
+@@||stripchats.io^$important
+@@||www.stripchats.io^$important
