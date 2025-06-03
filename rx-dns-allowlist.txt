@@ -29,3 +29,5 @@
 @@||ads.pinterest.com^$important
 @@||stripchats.io^$important
 @@||www.stripchats.io^$important
+@@||stripchat.com^$important
+@@||www.stripchat.com^$important
