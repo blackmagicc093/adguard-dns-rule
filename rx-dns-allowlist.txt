@@ -33,3 +33,4 @@
 @@||www.stripchat.com^$important
 @@||strpst.com^$important
 @@||www.strpst.com^$important
+@@||ads.tiktok.com^$important
