@@ -34,3 +34,4 @@
 @@||strpst.com^$important
 @@||www.strpst.com^$important
 @@||ads.tiktok.com^$important
+@@||affiliate.shopee.vn^$important
