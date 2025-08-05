@@ -189,3 +189,11 @@
 ||mirror.internetdownloadmanager.com^
 ||mirror2.internetdownloadmanager.com^
 ||mirror3.internetdownloadmanager.com^
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||pubads.g.doubleclick.net^
+||ad.doubleclick.net^
+||ads.youtube.com^
+||youtube.com/api/stats/ads^
+||youtube.com/get_midroll_info^
+||youtube.com/yva_video^
