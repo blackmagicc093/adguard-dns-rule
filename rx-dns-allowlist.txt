@@ -38,3 +38,4 @@
 @@||speech.microsoft.com^
 @@||dgb.lol^
 @@||fptplay.net^
+@@||paypal.com^
